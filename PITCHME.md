@@ -12,6 +12,6 @@ This is a sample slide
 
 ### Third page
 
----?code=application_controller.rb
+---?code=application.html.erb
 
 ### Bye
