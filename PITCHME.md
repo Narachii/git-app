@@ -8,7 +8,7 @@ This is a sample slide
 
 ---
 
-### youtubeのvideoも使える
+### youtubeのvideoも使えるよ
 
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
@@ -17,11 +17,16 @@ This is a sample slide
 ### backgroundでも流せるよ
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 background video
+
 ---
+
 #### コードレビューが出来ちゃう!!!!(メイン)
+
+---
+
 ```
 body {
-  background-color: #fff;
+  backgroundcolor: #fff;
   color: #333;
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
