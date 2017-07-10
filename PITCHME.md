@@ -3,17 +3,22 @@
 This is a sample slide
 
 ---
+### めっちゃ簡単にスライド作れるよ
+## マークダウンで書いてね。
 
-### Second page
+---
+
+### youtubeのvideoも使える
 
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
-### Third page
+### backgroundでも流せるよ
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 background video
 ---
+###コードレビューが出来ちゃう!!!!(メイン)
 ```
 body {
   background-color: #fff;
@@ -26,4 +31,4 @@ body {
 @[2](なんかちゃうで)
 ---
 
-### Bye
+### Thank you
