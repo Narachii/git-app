@@ -4,7 +4,7 @@ This is a sample slide
 
 ---
 ### めっちゃ簡単にスライド作れるよ
-## マークダウンで書いてね。
+#### マークダウンで書いてね。
 
 ---
 
@@ -18,7 +18,7 @@ This is a sample slide
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 background video
 ---
-###コードレビューが出来ちゃう!!!!(メイン)
+#### コードレビューが出来ちゃう!!!!(メイン)
 ```
 body {
   background-color: #fff;
