@@ -18,8 +18,11 @@ body {
   background-color: #fff;
   color: #333;
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
+  @font-size: 13px;
   line-height: 18px;
 }
 ```
+
+---
+
 ### Bye
