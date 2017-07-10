@@ -12,6 +12,7 @@ This is a sample slide
 
 ### Third page
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+background video
 ---
 ```
 body {
