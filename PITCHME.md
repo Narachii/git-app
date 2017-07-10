@@ -6,7 +6,7 @@ This is a sample slide
 
 ### Second page
 
-![Video](https://www.youtube.com/watch?v=Mj071XW4CKU)
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
