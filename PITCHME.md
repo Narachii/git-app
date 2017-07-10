@@ -12,6 +12,13 @@ This is a sample slide
 
 ### Third page
 
----?code=layouts/application.html.erb
+---
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
 
 ### Bye
