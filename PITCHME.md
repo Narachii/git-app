@@ -3,16 +3,15 @@
 ---
 
 ### React-nativeとは
-Facebook製のモバイルアプリ向けのフレームワーク
+Facebook社製のモバイルアプリ向けのフレームワーク
+"learn once, write anywhere"の思想で作られとおり、
+　　Android,iosのアプリが簡単に作れる
 
 ---
 
-### Airbnbやskypeでも採用されています
+Airbnbやskypeでも採用されています
 http://facebook.github.io/react-native/showcase.html
 
-
-
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
@@ -114,18 +113,18 @@ $ nodebrew use vX.X.X
 sudo npm install -g create-react-app
 
 ```
-npmのダウングレード(最新の5系は現在使えない！)
+###### npmのダウングレード(最新の5系は現在使えない！)
 ```
 $ npm install -g npm@4.6.1
 $ npm -v
   4.6.1
 ```
-Watchmenのインストール
+###### Watchmenのインストール
 https://facebook.github.io/watchman/
 ```
 $ brew install watchman
 ```
-ReactNativeのインストール
+###### ReactNativeのインストール
 ```
 $ npm install -g create-react-native-app
 ```
