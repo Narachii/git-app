@@ -5,7 +5,7 @@
 ### React-nativeとは
 Facebook社製のモバイルアプリ向けのフレームワーク
 
-"learn once, write anywhere"の思想で作られており、　
+"learn once, write anywhere"の思想で作られており、  　
 Android,iOSのアプリが簡単に作れる
 
 ---
@@ -153,8 +153,8 @@ $ cd AwesomeProject
 ---
 
 #### Expoのインストール
-- Expoとは？
-'Expo is a free and open source toolchain built around React Native to help you build native iOS and Android projects using JavaScript and React.'
+- Expoとは？  
+'Expo is a free and open source toolchain built around React Native to help you build native iOS and Android projects using JavaScript and React.'  
 →　JS のみで ios/android アプリを作る開発/ビルド環境
 https://expo.io/
 
