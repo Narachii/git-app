@@ -167,11 +167,7 @@ npm start
 ```
 ---
 #### Hello World
-```
-vim App.js
-```
-以下に編集
-```
+``` App.js
 import React, { Component } from 'react';
 import { Text } from 'react-native';
 
