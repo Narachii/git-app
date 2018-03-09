@@ -3,12 +3,10 @@
 ---
 
 ### React-nativeとは
-Facebook社製のモバイルアプリ向けの
-　　　　　　　　　　　　　　　　フレームワーク
+Facebook社製のモバイルアプリ向けのフレームワーク
 
-"learn once, write anywhere"の思想で
-　　作られており、　Android,iOSのアプリが
-  　　　　　　　　　　　　　　簡単に作れる
+"learn once, write anywhere"の思想で作られており、　
+Android,iOSのアプリが簡単に作れる
 
 ---
 
@@ -45,8 +43,8 @@ http://facebook.github.io/react-native/showcase.html
 
 #### フォルダ構成
 
-- ios.js(expo使用する場合は不要)
-- Android.js(expo使用する場合は不要)
+- ios.js  (expo使用する場合は不要)
+- Android.js   (expo使用する場合は不要)
 - src (React Native)
   - actions (http通信周り)
   - components (部品レベル)
@@ -126,9 +124,8 @@ $ nodebrew use vX.X.X
 sudo npm install -g create-react-app
 
 ```
-
+---
 ###### npmのダウングレード(最新の5系は現在使えない！)
-
 ```
 $ npm install -g npm@4.6.1
 $ npm -v
@@ -139,6 +136,9 @@ https://facebook.github.io/watchman/
 ```
 $ brew install watchman
 ```
+
+---
+
 ###### ReactNativeのインストール
 ```
 $ npm install -g create-react-native-app
@@ -152,9 +152,11 @@ $ cd AwesomeProject
 ```
 ---
 
-#### Expoをインストール
+#### Expoのインストール
 - Expoとは？
-(Expoの写真)
+'Expo is a free and open source toolchain built around React Native to help you build native iOS and Android projects using JavaScript and React.'
+→　JS のみで ios/android アプリを作る開発/ビルド環境
+https://expo.io/
 
 ---
 #### サーバー立ち上げ
