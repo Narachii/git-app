@@ -1,11 +1,13 @@
-### React-native by Narachii
-
+### React-native　入門編
+    ~ Hello worldまで~
+   by Narachii
 ---
 
 ### React-nativeとは
 Facebook社製のモバイルアプリ向けのフレームワーク
-"learn once, write anywhere"の思想で作られとおり、
-　　Android,iosのアプリが簡単に作れる
+
+"learn once, write anywhere"の思想で作られており、
+　　Android,iOSのアプリが簡単に作れる
 
 ---
 
@@ -36,18 +38,19 @@ http://facebook.github.io/react-native/showcase.html
   (JSX,props,state, Redux)
 
 ---
-####　サーバー構成？
-Expoとか
 
 ---
 
 #### フォルダ構成
-src (React Native)
-- actions (http通信周り)
-- components (部品レベル)
-- containers (ページレベル/reduxとconnectする部分)
-- reducers (actionを受けてstateを変更するめそd)
-- store (アプリケーションの状態を保持する)
+
+- ios.js(expo使用する場合は不要)
+- Android.js(expo使用する場合は不要)
+- src (React Native)
+  - actions (http通信周り)
+  - components (部品レベル)
+  - containers (ページレベル/reduxとconnectする部分)
+  - reducers (actionを受けてstateを変更するめそd)
+  - store (アプリケーションの状態を保持する)
 
 ---
 
@@ -113,7 +116,9 @@ $ nodebrew use vX.X.X
 sudo npm install -g create-react-app
 
 ```
+
 ###### npmのダウングレード(最新の5系は現在使えない！)
+
 ```
 $ npm install -g npm@4.6.1
 $ npm -v
@@ -169,19 +174,10 @@ export default class HelloWorldApp extends Component {
 ---
 
 #### 最後に
+今回はとりあえずHello Worldでしたが、
+次回ではserverの構成なども含めて
+話せるよう引き続き勉強しておきます！！！
 
----
-
-```
-body {
-  backgroundcolor: #fff;
-  color: #333;
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
-}
-```
-@[2](なんかちゃうで)
 ---
 
 ### Thank you
