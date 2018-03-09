@@ -13,6 +13,7 @@ Facebook社製のモバイルアプリ向けの
 ---
 
 Airbnbやskypeでも採用されています
+![2018-03-07 20 41 13](https://user-images.githubusercontent.com/29746381/37192176-5303b30a-23a7-11e8-9616-d575745b688a.png)
 http://facebook.github.io/react-native/showcase.html
 
 
