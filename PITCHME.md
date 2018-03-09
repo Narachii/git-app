@@ -102,17 +102,25 @@ $brew install node
 
 nodebrewのinstall
 $ curl -L git.io/nodebrew | perl - setup
+
 $ vi .bashrc
   export PATH=$HOME/.nodebrew/current/bin:$PATH
+
 $ source .bashrc
+
 $ echo $PATH
+
 $ nodebrew help
   nodebrew 0.9.7
+
 $ nodebrew ls-remote
+
 $ nodebrew install-binary vX.X.X
+
 $ nodebrew ls
   vX.X.X
   current: none
+
 $ nodebrew use vX.X.X
 sudo npm install -g create-react-app
 
