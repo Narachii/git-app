@@ -167,7 +167,7 @@ npm start
 ```
 ---
 #### Hello World
-``` App.js
+``` :App.js
 import React, { Component } from 'react';
 import { Text } from 'react-native';
 
