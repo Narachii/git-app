@@ -1,13 +1,14 @@
-### React-native　入門編
-    ~ Hello worldまで~
+### React-native　入門編　　
    by Narachii
 ---
 
 ### React-nativeとは
-Facebook社製のモバイルアプリ向けのフレームワーク
+Facebook社製のモバイルアプリ向けの
+　　　　　　　　　　　　　　　　フレームワーク
 
-"learn once, write anywhere"の思想で作られており、
-　　Android,iOSのアプリが簡単に作れる
+"learn once, write anywhere"の思想で
+　　作られており、　Android,iOSのアプリが
+  　　　　　　　　　　　　　　簡単に作れる
 
 ---
 
